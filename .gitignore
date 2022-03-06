@@ -1,0 +1,7 @@
+node_modules/
+angular-src/dist
+config/database.js
+config/database.js.save
+setvalve.sh
+angular-src/.angular/cache/
+
